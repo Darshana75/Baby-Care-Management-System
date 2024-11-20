@@ -1,4 +1,4 @@
-![Home Page](https://github.com/user-attachments/assets/7053ff30-ef0b-4639-bc80-c3752864a081)# Web-Based Child Health Development Record System Application for Mothers & Midwives in Sri Lanka
+# Web-Based Child Health Development Record System Application for Mothers & Midwives in Sri Lanka
 
 ## 📜 Project Overview
 
