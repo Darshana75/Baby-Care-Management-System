@@ -1,10 +1,8 @@
-# Web-Based Child Health Development Record System Application for Mothers & Midwives in Sri Lanka
+![Home Page](https://github.com/user-attachments/assets/7053ff30-ef0b-4639-bc80-c3752864a081)# Web-Based Child Health Development Record System Application for Mothers & Midwives in Sri Lanka
 
 ## 📜 Project Overview
 
 Web-Based Child Health Development Record System Application for Mothers & Midwives in Sri Lanka (also known as **Baby Care Management System**) is a comprehensive web-based application designed to digitize and streamline maternal and child healthcare management in Sri Lanka. By replacing the existing manual record-keeping system, this application improves the efficiency of record management, enhances communication between mothers and midwives, and provides essential reminders for critical healthcare milestones.
-
-
 
 ## 🛠️ Features
 
@@ -20,7 +18,6 @@ Web-Based Child Health Development Record System Application for Mothers & Midwi
 - **Database:** MySQL
 - **Development Tools:** Visual Studio Code, XAMPP
 - **UI Design:** Figma
-
 
 ## 📋 System Design
 
@@ -40,9 +37,7 @@ Web-Based Child Health Development Record System Application for Mothers & Midwi
 
 Below is the Home Page UI, where users are welcomed and directed to their respective login portals.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
+![Home Page](https://github.com/user-attachments/assets/4b5b2c02-e46d-479f-9db1-156cf7bcdae3)
 
 ## 🚀 Getting Started
 
@@ -81,12 +76,14 @@ Launch the application:
 #### Parent:
 - Username
 - Password
+  
 ## 📈 Future Enhancements
 
 - Develop a mobile application for Android and iOS platforms.
 - Implement advanced analytics to track healthcare trends.
 - Add multilingual support for better accessibility.
 - Expand features for community health monitoring and real-time updates.
+
 ## 📧 Contact
 For questions or feedback, feel free to reach out:
 
