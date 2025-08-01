@@ -84,10 +84,12 @@ Launch the application:
 - Add multilingual support for better accessibility.
 - Expand features for community health monitoring and real-time updates.
 
+## 🔒 Note
+The source code for this project is currently private to maintain confidentiality and ensure responsible usage. If you are interested in reviewing the code for educational, recruitment or collaboration purposes, please feel free to contact me directly to request access.
+
 ## 📧 Contact
 For questions or feedback, feel free to reach out:
 
 - Email: darshanaprabath254@gmail.com
 - GitHub: https://github.com/Darshana75
 - Linkedin: https://www.linkedin.com/in/darshanaprabath/
-- Portfolio: https://darshanaprabath.web.app
